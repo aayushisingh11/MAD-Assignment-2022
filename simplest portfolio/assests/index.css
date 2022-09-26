@@ -1,0 +1,130 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    background-color: white;
+    color: black;
+}
+
+.dark-mode {
+    background-color: #1f1f1f;
+    color: white;
+}
+
+#hello{
+    text-align:center;
+    margin: 0 auto;
+    padding: 2%;
+    margin-top: 5%;
+}
+
+.social{
+    margin-top: 5px;
+    padding: 5px;
+}
+
+#gif{
+    margin-top: 100px;
+}
+
+#hey{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px; height: 100px;
+}
+
+.aboutme{
+    color: white;
+    text-align: justify;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+.fact{
+    text-align: center;
+    margin: 0 auto;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+}
+
+.skillimg{
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+
+.flex-container {
+    display: flex;
+    align-items: stretch;
+}
+  
+.flex-container>div {
+    
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+}
+#usingbook{
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+#usingbook2{
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+}
+
+
+#mongo{
+    height: 80px;
+    width:80px;
+}
+
+#clanguage{
+    height: 70px;
+    width: 70px;
+}
+
+#java{
+    height: 90px;
+    width: 100px;
+}
+
+#python{
+    height: 90px;
+    width:90px;
+}
+
+#Cloud{
+    height: 80px;
+    width: 80px;
+}
+
+#plane{
+    height: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+}
+
+#footer{
+margin-top: 50px;
+}
+.foter{
+    color: white;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+    margin-bottom: 10px;
+}
